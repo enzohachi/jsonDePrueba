@@ -1,82 +1,72 @@
 [
-  {
-    "id": 1,
-    "image": "https://4.bp.blogspot.com/_BXhpoDvT8uM/S43GBiQaZOI/AAAAAAAAAsc/yWILJaZy2l8/s1600-h/cama+rota+2.jpg",
-    "title": "Necesito una cama",
-    "comuna": "La Cisterna",
-    "name": "Juan Perez",
-    
-  },
-    {
-    "id": 2,
-    "image": "https://sri.ua.es/es/cooperacion/imagenes/cooperacion/05a01601.jpg",
-    "title": "Persona para arreglar techo",
-    "comuna": "San Juaquin",
-    "name": "Felipe Matus",
-    
-  },
-  {
-    "id": 3,
-    "image": "https://mamaprimerizablog.com/wp-content/uploads/Sin-t%C3%ADtulo.jpg",
-    "title": "Comida para recien nacido",
-    "comuna": "La Pintana",
-    "name": "Maria Soto",
-    
-  },
-  {
-    "id": 4,
-    "image": "https://img.yapo.cl/images/31/3174838934.jpg",
-    "title": "Impresora",
-    "comuna": "Cerrillos",
-    "name": "Alejandro Lucsic",
-   
-  },
-  {
-    "id": 5,
-    "image": "https://media.elmostrador.cl/2020/06/EaCXslJWAAEbCo--700x438.jpg",
-    "title": "Olla comun",
-    "comuna": "Vitacura",
-    "name": "Rocio Echeverria",
-    
-  },
-  {
-    "id": 6,
-    "image": "https://blogs.iadb.org/ideas-que-cuentan/wp-content/uploads/sites/11/2018/08/shutterstock_1165193482.jpg",
-    "title": "Medicamentos diabetes",
-    "comuna": "Lo Prado",
-    "name": "Matias Paredes",
-    
-  },
-  {
-    "id": 7,
-    "image": "https://ohmygeek.net/wp-content/uploads/2013/08/Viejo-computador-Windows-XP.jpg",
-    "title": "Computador",
-    "comuna": "La Cisterna",
-    "name": "Federico Sanchez",
-    
-  },
-  {
-    "id": 8,
-    "image": "https://cl.habcdn.com/photos/questions/medium/destapar-caneria-de-agua-159207.jpg",
-    "title": "Cañeria de agua",
-    "comuna": "San Ramon",
-    "name": "Lucia Gonzales",
-   
-  },
-  {
-    "id": 9,
-    "image": "https://estaticos-cdn.elperiodico.com/clip/28832fdb-711e-412d-87d2-bec41024f302_alta-libre-aspect-ratio_default_0.jpg",
-    "title": "Necesito una plancha",
-    "comuna": "Maipu",
-    "name": "Mariana Solano",
-    
-  },
-  {
-    "id": 10,
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgD0F4fAahtv11YrUZ1JWy3CAFlW250dzU6g&usqp=CAU",
-    "title": "Silla de ruedas",
-    "comuna": "Santiago",
-    "name": "Manuel Toledo",
-    
-  }
+   {
+      "id":1,
+      "image":"https://4.bp.blogspot.com/_BXhpoDvT8uM/S43GBiQaZOI/AAAAAAAAAsc/yWILJaZy2l8/s1600-h/cama+rota+2.jpg",
+      "title":"Necesito una cama",
+      "comuna":"La Cisterna",
+      "name":"Juan Perez"
+   },
+   {
+      "id":2,
+      "image":"https://sri.ua.es/es/cooperacion/imagenes/cooperacion/05a01601.jpg",
+      "title":"Persona para arreglar techo",
+      "comuna":"San Juaquin",
+      "name":"Felipe Matus"
+   },
+   {
+      "id":3,
+      "image":"https://mamaprimerizablog.com/wp-content/uploads/Sin-t%C3%ADtulo.jpg",
+      "title":"Comida para recien nacido",
+      "comuna":"La Pintana",
+      "name":"Maria Soto"
+   },
+   {
+      "id":4,
+      "image":"https://img.yapo.cl/images/31/3174838934.jpg",
+      "title":"Impresora",
+      "comuna":"Cerrillos",
+      "name":"Alejandro Lucsic"
+   },
+   {
+      "id":5,
+      "image":"https://media.elmostrador.cl/2020/06/EaCXslJWAAEbCo--700x438.jpg",
+      "title":"Olla comun",
+      "comuna":"Vitacura",
+      "name":"Rocio Echeverria"
+   },
+   {
+      "id":6,
+      "image":"https://blogs.iadb.org/ideas-que-cuentan/wp-content/uploads/sites/11/2018/08/shutterstock_1165193482.jpg",
+      "title":"Medicamentos diabetes",
+      "comuna":"Lo Prado",
+      "name":"Matias Paredes"
+   },
+   {
+      "id":7,
+      "image":"https://ohmygeek.net/wp-content/uploads/2013/08/Viejo-computador-Windows-XP.jpg",
+      "title":"Computador",
+      "comuna":"La Cisterna",
+      "name":"Federico Sanchez"
+   },
+   {
+      "id":8,
+      "image":"https://cl.habcdn.com/photos/questions/medium/destapar-caneria-de-agua-159207.jpg",
+      "title":"Cañeria de agua",
+      "comuna":"San Ramon",
+      "name":"Lucia Gonzales"
+   },
+   {
+      "id":9,
+      "image":"https://estaticos-cdn.elperiodico.com/clip/28832fdb-711e-412d-87d2-bec41024f302_alta-libre-aspect-ratio_default_0.jpg",
+      "title":"Necesito una plancha",
+      "comuna":"Maipu",
+      "name":"Mariana Solano"
+   },
+   {
+      "id":10,
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgD0F4fAahtv11YrUZ1JWy3CAFlW250dzU6g&usqp=CAU",
+      "title":"Silla de ruedas",
+      "comuna":"Santiago",
+      "name":"Manuel Toledo"
+   }
 ]
